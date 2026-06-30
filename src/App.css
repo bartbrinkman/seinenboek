@@ -1,0 +1,150 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+  max-width: 480px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 12px;
+}
+
+.app__main {
+  flex: 1;
+  padding: 16px;
+  display: flex;
+}
+
+/* ScoreBar */
+
+.score-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px 10px;
+}
+
+.score-bar__numbers {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.score-bar__fraction {
+  font-weight: 600;
+}
+
+.score-bar__percentage {
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.score-bar__confirm {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+/* QuizCard */
+
+.quiz-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.quiz-card__image-wrap {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 24px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 160px;
+}
+
+.quiz-card__image {
+  max-width: 100%;
+  max-height: 220px;
+  height: auto;
+}
+
+.quiz-card__prompt {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.quiz-card__options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option {
+  text-align: left;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 12px 14px;
+  font-size: 15px;
+  line-height: 1.35;
+  cursor: pointer;
+}
+
+.option:active {
+  background: #f0f1f3;
+}
+
+.option--correct {
+  border-color: var(--correct);
+  background: var(--correct-bg);
+  color: var(--correct);
+  font-weight: 600;
+}
+
+.option--incorrect {
+  border-color: var(--incorrect);
+  background: var(--incorrect-bg);
+  color: var(--incorrect);
+  font-weight: 600;
+}
+
+.option--disabled {
+  opacity: 0.55;
+}
+
+.quiz-card__feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: stretch;
+  padding-top: 4px;
+}
+
+.quiz-card__signal-label {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.quiz-card__section {
+  display: block;
+}

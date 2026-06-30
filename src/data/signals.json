@@ -1,0 +1,2316 @@
+{
+  "sections": {
+    "1": "Algemeen",
+    "1.1": "Begripsomschrijvingen",
+    "1.2": "Toestemmingen en opdrachten",
+    "2": "Lichtseinen",
+    "2.1": "Hoofdseinen",
+    "2.2": "Voorseinen",
+    "2.3": "Lichtseinen met borden met een zwarte driehoek",
+    "3": "Snelheidsborden",
+    "4": "Aanvullende seinen",
+    "4.1": "Richtingaanwijzer en herhalingssein",
+    "4.2": "Borden aan lichtseinen",
+    "4.3": "Baken",
+    "5": "ATB-seinen",
+    "5.1": "ATB-baanseinen",
+    "5.2": "ATB-cabineseinen",
+    "6": "Seinen voor tunnels en steile hellingen",
+    "7": "Seinen met stopopdrachten",
+    "8": "Seinen voor spoorvoertuigen met stroomafnemers",
+    "9": "Seinen op kracht- en overige spoorvoertuigen",
+    "10": "Remproefseinen",
+    "11": "Vertrekseinen",
+    "12": "Overige vaste seinen",
+    "13": "Seinen voor ETCS",
+    "14": "Handseinen voor materieelverplaatsing",
+    "15": "Gevaarseinen",
+    "16": "Seinen voor de persoonlijke veiligheid",
+    "16.1": "Vaste waarschuwingsinstallatie bij uitzichtbelemmerende objecten (wubo)",
+    "16.2": "Vaste waarschuwingsinstallatie op bruggen (wibr)",
+    "16.3": "Vaste waarschuwingsinstallatie voor dienstoverpaden (wido)",
+    "16.4": "Vaste waarschuwingsinstallatie in tunnels (wit)",
+    "16.5": "Geluids- en lichtseinen bij werkzaamheden",
+    "17": "Aanduidingsborden",
+    "18": "Markeringen",
+    "19": "Lokaal voorkomende seinen",
+    "19.1": "Amsterdam",
+    "19.2": "Venlo",
+    "19.3": "Kijfhoek",
+    "19.4": "Nederlands – Belgisch baanvakken",
+    "19.5": "Diverse baanvakken",
+    "19.6": "Baanvakken Tilburg – ‘s Hertogenbosch en Boxtel – Eindhoven",
+    "19.7": "Amersfoort",
+    "20": "Seinen op buitendienstgesteld spoor"
+  },
+  "signals": [
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269507.png"
+      ],
+      "meaning": "Rijden toegestaan met de plaatselijke snelheid. Als bij vertrek de plaatselijke snelheid niet bekend is, is rijden toegestaan met een snelheid van ten hoogste 40 kilometer per uur.",
+      "id": "s0001",
+      "label": "Nr. 201 Hoog geplaatst groen licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269508.png"
+      ],
+      "meaning": "Rijden toegestaan met ten hoogste de aangegeven snelheid.",
+      "id": "s0002",
+      "label": "Nr. 202 Hoog geplaatst knipperend groen licht met een door wit licht gevormd getal"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269509.png"
+      ],
+      "meaning": "206a (hoog geplaatst knipperend groen licht): rijden toegestaan met een snelheid van ten hoogste 40 kilometer per uur.\n206b (laag geplaatst groen licht): rijden toegestaan met een snelheid van ten hoogste 40 kilometer per uur of de ter plaatse geldende lagere snelheid.",
+      "id": "s0003",
+      "label": "Nr. 206a/b Hoog geplaatst knipperend groen licht of laag geplaatst groen licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269510.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de aangegeven snelheid. Deze snelheid kan niet in alle situaties bij het volgende hoofdsein bereikt zijn. In die situaties mag de remming niet onderbroken worden indien het volgende hoofdsein een verdere begrenzing van de snelheid opdraagt.",
+      "id": "s0004",
+      "label": "Nr. 209 Hoog geplaatst geel licht met een door knipperend wit licht gevormd getal"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269511.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de aangegeven snelheid. Deze snelheid moet vóór het volgende hoofdsein bereikt zijn.",
+      "id": "s0005",
+      "label": "Nr. 210 Hoog geplaatst geel licht met een door wit licht gevormd getal"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269512.png"
+      ],
+      "meaning": "212a (hoog geplaatst geel licht): Snelheid begrenzen tot 40 kilometer per uur of lager, om voor het eerstvolgende sein met betekenis ‘stop’ te kunnen stoppen.\n212b (laag geplaatst geel licht): Rijden toegestaan met ten hoogste 40 kilometer per uur, of de ter plaatse geldende lagere snelheid, om voor het eerstvolgende sein met betekenis ‘stop’ te kunnen stoppen.",
+      "id": "s0006",
+      "label": "Nr. 212a/b Hoog of laag geplaatst geel licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269513.png"
+      ],
+      "meaning": "Rijden op zicht.",
+      "id": "s0007",
+      "label": "Nr. 214a/b Hoog of laag geplaatst geel knipperend licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269514.png"
+      ],
+      "meaning": "Stoppen vóór het sein.",
+      "id": "s0008",
+      "label": "Nr. 215a/b Hoog of laag geplaatst rood licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.1",
+      "subsectionTitle": "Hoofdseinen",
+      "images": [
+        "269515.png"
+      ],
+      "meaning": "Door een bedieningshandeling uitgeschakeld sein. Rijden toegestaan na verkregen toestemming tot rangeren.",
+      "id": "s0009",
+      "label": "Nr. 216a/b Hoog of laag geplaatst wit licht"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.2",
+      "subsectionTitle": "Voorseinen",
+      "images": [
+        "269516.png"
+      ],
+      "meaning": "Rijden toegestaan met de plaatselijke snelheid. Een voorafgaande opdracht ‘Rijden op zicht’ blijft gelden.",
+      "id": "s0010",
+      "label": "Nr. 217a/b Hoog geplaatst groen licht: a. met een achtergrond-scherm met drie of vier rechte hoeken; b. zonder achtergrond-scherm met daaronder een voorseinbord 291b"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.2",
+      "subsectionTitle": "Voorseinen",
+      "images": [
+        "255597.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de aangegeven snelheid. Deze snelheid moet vóór het volgende hoofdsein bereikt zijn. Een voorafgaande opdracht ‘Rijden op zicht’ blijft gelden.",
+      "id": "s0011",
+      "label": "Nr. 218a/b Hoog geplaatst geel licht met een door wit licht gevormd getal a. met een achtergrondscherm met drie of vier rechte hoeken; b. zonder achtergrondscherm met daaronder een voorseinbord 291b."
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.2",
+      "subsectionTitle": "Voorseinen",
+      "images": [
+        "255598.png"
+      ],
+      "meaning": "Snelheid begrenzen tot 40 kilometer per uur of lager, om voor het eerstvolgende sein met betekenis ‘stop’ te kunnen stoppen. Een voorafgaande opdracht ‘Rijden op zicht’ blijft gelden.",
+      "id": "s0012",
+      "label": "Nr. 219a/b Hoog geplaatst geel licht a. met een achtergrondscherm met drie of vier rechte hoeken; b. zonder achtergrondscherm met daaronder een voorseinbord 291b."
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.3",
+      "subsectionTitle": "Lichtseinen met borden met een zwarte driehoek",
+      "images": [
+        "269517.png"
+      ],
+      "meaning": "Snelheid begrenzen tot 40 kilometer per uur of lager, om voor het eerstvolgende sein met betekenis ‘stop’ te kunnen stoppen. Een voorafgaande opdracht ‘Rijden op zicht’ blijft\ngelden.",
+      "id": "s0013",
+      "label": "Nr. 222 Hoog geplaatst geel licht met: – een achtergrond-scherm met rechte of afgeronde hoek, en – daaronder een wit vierkant bord met een zwarte driehoek met de punt omhoog"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.3",
+      "subsectionTitle": "Lichtseinen met borden met een zwarte driehoek",
+      "images": [
+        "255600.png"
+      ],
+      "meaning": "Stoppen vóór het sein.",
+      "id": "s0014",
+      "label": "Nr. 215a Hoog of laag geplaatst rood licht met een vierkant wit bord met een zwarte driehoek met de punt omhoog"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.3",
+      "subsectionTitle": "Lichtseinen met borden met een zwarte driehoek",
+      "images": [
+        "269518.png"
+      ],
+      "meaning": "Rijden toegestaan. Aanduiding\nvan een volgend sein nr. 220a/b dat\nwit licht uitstraalt. Een voorafgaande opdracht ‘Rijden op zicht’ blijft gelden.",
+      "id": "s0015",
+      "label": "Nr. 221 Hoog geplaatst wit licht met: – een achtergrond-scherm met rechte of afgeronde hoek en daaronder – een wit vierkant bord met een zwarte driehoek met de punt omhoog"
+    },
+    {
+      "section": "2",
+      "sectionTitle": "Lichtseinen",
+      "subsection": "2.3",
+      "subsectionTitle": "Lichtseinen met borden met een zwarte driehoek",
+      "images": [
+        "257433.png"
+      ],
+      "meaning": "Voorbijrijden toegestaan.\nDe inrichting achter het sein is veilig berijdbaar. Een voorafgaande opdracht ‘Rijden op zicht’ blijft gelden.",
+      "id": "s0016",
+      "label": "Nr. 220a/b Hoog of laag geplaatst wit licht met een vierkant wit bord met een zwarte driehoek met de punt omhoog"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255603.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de aangegeven snelheid. Deze snelheid moet voor het eerstvolgende bord Nr. 314 bereikt zijn. Rijden met de aangegeven snelheid toegestaan indien voorgaand een groenvariant getoond werd.",
+      "id": "s0017",
+      "label": "Nr. 313 Snelheidsverminderingsbord"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255605.png"
+      ],
+      "meaning": "Aanduiding van de plaatselijke snelheid die voorbij het bord geldt.\nSnelheid verhogen naar een aangegeven snelheid hoger dan 40 kilometer per uur is alleen toegestaan indien voorafgaand een groenvariant getoond werd.",
+      "id": "s0018",
+      "label": "Nr. 314 Snelheidsbord"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255607.png"
+      ],
+      "meaning": "Aanduiding van de plaatselijke snelheid die voorbij het bord geldt. Snelheid verhogen naar een aangegeven snelheid hoger dan 40 kilometer per uur is alleen toegestaan indien voorafgaand een groenvariant getoond werd.",
+      "id": "s0019",
+      "label": "Nr. 316 Snelheidsbord"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "257434.png"
+      ],
+      "meaning": "De door het getal aangegeven snelheid mag niet worden overschreden totdat:\na de voorkant van de trein de overweg is gepasseerd; of\nb de gehele trein de weegbrug is gepasseerd.",
+      "id": "s0020",
+      "label": "Nr. 324 Snelheidsbord Overweg/Weegbrug"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255610.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de door het getal aangegeven snelheid, met dien verstande dat bij een bord met twee getallen:\n• het onderste getal geldt voor treinen bestemd voor het vervoer van goederen en met een snelheid lager dan 120 kilometer per uur en voor losse locomotieven; en\n• het bovenste getal voor de overige treinen.",
+      "id": "s0021",
+      "label": "Nr. 325b Tijdelijk snelheidsbord"
+    },
+    {
+      "section": "3",
+      "sectionTitle": "Snelheidsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255612.png"
+      ],
+      "meaning": "Aanduiding van het einde van een spoorgedeelte waarvoor de tijdelijke snelheidsbeperking geldt.",
+      "id": "s0022",
+      "label": "Nr. 327a ‘E’-bord"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.1",
+      "subsectionTitle": "Richtingaanwijzer en herhalingssein",
+      "images": [
+        "255615.png"
+      ],
+      "meaning": "Aanduiding van de bestemming van de ingestelde rijweg.",
+      "id": "s0023",
+      "label": "Nr. 252 Richtingaanwijzer"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.1",
+      "subsectionTitle": "Richtingaanwijzer en herhalingssein",
+      "images": [
+        "255616.png"
+      ],
+      "meaning": "Aanduiding dat het eerstvolgende lichtsein een ander seinbeeld uitstraalt dan rood of geel knipperend licht.",
+      "id": "s0024",
+      "label": "Nr. 272 Herhalingssein diagonaal"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.1",
+      "subsectionTitle": "Richtingaanwijzer en herhalingssein",
+      "images": [
+        "255617.png"
+      ],
+      "meaning": "Aanduiding dat het eerstvolgende lichtsein rood licht of geel knipperend licht uitstraalt.",
+      "id": "s0025",
+      "label": "Nr. 273 Herhalingssein horizontaal"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.2",
+      "subsectionTitle": "Borden aan lichtseinen",
+      "images": [
+        "255618.png"
+      ],
+      "meaning": "Aanduiding van een lichtsein met een voorziening om in geval van storing de spoorwegovergang te kunnen sluiten.",
+      "id": "s0026",
+      "label": "Nr. 291a Bord ‘Noodbediening overweg’"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.2",
+      "subsectionTitle": "Borden aan lichtseinen",
+      "images": [
+        "255619.png"
+      ],
+      "meaning": "Aanduiding van een voorsein zonder achtergrondscherm.",
+      "id": "s0027",
+      "label": "Nr. 291b Voorseinbord"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.2",
+      "subsectionTitle": "Borden aan lichtseinen",
+      "images": [
+        "255620.png"
+      ],
+      "meaning": "Aanduiding van een P-sein.",
+      "id": "s0028",
+      "label": "Nr. 291c P-bord"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255621.png"
+      ],
+      "meaning": "Aanduiding van de nadering van een voorsein.",
+      "id": "s0029",
+      "label": "Nr. 249 Baken"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255622.png"
+      ],
+      "meaning": "Snelheid begrenzen tot 40 kilometer per uur of zoveel minder als nodig om voor het eerstvolgende ‘stop’ tonende sein te kunnen stoppen.",
+      "id": "s0030",
+      "label": "Nr. 249a Keperbaken"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255623.png"
+      ],
+      "meaning": "Aanduiding van de nadering van een lichtsein of een stopplaatsmarkering nr. 227a of nr. 227b’.",
+      "id": "s0031",
+      "label": "Nr. 251 Reflectorplaatje"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255624.png"
+      ],
+      "meaning": "Aanduiding van een achter het lichtsein gelegen bijzonder gevaarpunt.",
+      "id": "s0032",
+      "label": "Nr. 251a/l Bord ‘Bijzonder gevaarpunt’"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255625.png"
+      ],
+      "meaning": "Aanduiding van de nadering van een lichtsein dat op ten minste remwegafstand voorafgaat aan een lichtsein voorzien van een bord bijzonder gevaarpunt nr. 251a/l.",
+      "id": "s0033",
+      "label": "Nr. 251a/II Gele bakens"
+    },
+    {
+      "section": "4",
+      "sectionTitle": "Aanvullende seinen",
+      "subsection": "4.3",
+      "subsectionTitle": "Baken",
+      "images": [
+        "255626.png"
+      ],
+      "meaning": "Aanduiding van de nadering van een P-sein dat voorafgaat aan een hoofdsein zonder P.",
+      "id": "s0034",
+      "label": "Nr. 251b Reflectorplaatje rechthoekig met schuine strepen"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.1",
+      "subsectionTitle": "ATB-baanseinen",
+      "images": [
+        "255627.png"
+      ],
+      "meaning": "Aanduiding van de nadering van het bord ‘Nr. 328 ATB-inschakelbord’.",
+      "id": "s0035",
+      "label": "Nr. 328a ATB-naderingsbord"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.1",
+      "subsectionTitle": "ATB-baanseinen",
+      "images": [
+        "255628.png"
+      ],
+      "meaning": "Aanduiding van het begin van de inschakelsectie van het automatische treinbeïnvloeding systeem ATB.",
+      "id": "s0036",
+      "label": "Nr. 328 ATB-inschakelbord"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.1",
+      "subsectionTitle": "ATB-baanseinen",
+      "images": [
+        "255629.png"
+      ],
+      "meaning": "Aanduiding van het begin van met ATB of ATBNG beveiligd gebied of de overgang tussen deze gebieden.",
+      "id": "s0037",
+      "label": "Nr. 328b ATB-code bord"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.1",
+      "subsectionTitle": "ATB-baanseinen",
+      "images": [
+        "255630.png"
+      ],
+      "meaning": "Aanduiding van het einde van het gebied waar het automatische treinbeïnvloeding systeem ATB of ATBNG functioneert.",
+      "id": "s0038",
+      "label": "Nr. 329 ATB-uitschakelbord"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.1",
+      "subsectionTitle": "ATB-baanseinen",
+      "images": [
+        "255631.png"
+      ],
+      "meaning": "Aanduiding van het tonen van een cabinesein dat een snelheidsbegrenzing oplegt.",
+      "id": "s0039",
+      "label": "Nr. 330 ATB-codewisselsein (wit licht)"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255632.png"
+      ],
+      "meaning": "Rijden toegestaan met de door de vaste seinen aangegeven snelheid.",
+      "id": "s0040",
+      "label": "nr. 801 Groen licht/groen licht met snelheidsmeter"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255633.png"
+      ],
+      "meaning": "Snelheid begrenzen tot 40 kilometer per uur.",
+      "id": "s0041",
+      "label": "Nr. 802 Geel licht"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255634.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de door borden en lichtseinen aangegeven snelheid.",
+      "id": "s0042",
+      "label": "Nr. 803 Geel met getal/snelheidsmeter"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255635.png"
+      ],
+      "meaning": "Aanduiding van het voldoen aan het ATB-remkriterium.",
+      "id": "s0043",
+      "label": "Nr. 804 Wit licht"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255636.png"
+      ],
+      "meaning": "Aanduiding van het buiten dienst zijn van het automatisch treinbeveiligingssysteem.",
+      "id": "s0044",
+      "label": "Nr. 805 Blauw licht"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255637.png"
+      ],
+      "meaning": "Aanduiding van een door het automatisch treinbeveiligingssysteem ingezette remming.",
+      "id": "s0045",
+      "label": "Nr. 806 Rood licht"
+    },
+    {
+      "section": "5",
+      "sectionTitle": "ATB-seinen",
+      "subsection": "5.2",
+      "subsectionTitle": "ATB-cabineseinen",
+      "images": [
+        "255638.png"
+      ],
+      "meaning": "Vooraankondiging snelheidsbegrenzing.\nDe snelheid moet begrensd zijn tot de snelheid vermeld in het display ‘doelsnelheid’ op een afstand aangegeven op de ‘afstandmeter doelsnelheid’. 255639",
+      "id": "s0046",
+      "label": "Nr. 813 Elektrisch zicht"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255642.png"
+      ],
+      "meaning": "Snelheid zodanig begrenzen dat voor het eerstvolgende H-sein ‘Nr. 277’ kan worden gestopt.\nGeldt alleen voor bestuur-ders van treinen bestemd voor het vervoer van goederen, welke treinen door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0047",
+      "label": "Nr. 276 ´L´-sein"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255643.png"
+      ],
+      "meaning": "Stoppen voor het sein.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen, welke treinen door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0048",
+      "label": "Nr. 277 ´H´-sein"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255644.png"
+      ],
+      "meaning": "Snelheid zodanig begrenzen dat voor het eerstvolgende sein ‘Nr. 279 Witte ‘X’’ of een lichtsein, dat rood licht uitstraalt, kan worden gestopt.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0049",
+      "label": "Nr. 278 Knipperend witte ´X´"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255645.png"
+      ],
+      "meaning": "Stoppen vóór het sein.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0050",
+      "label": "Nr. 279 Witte ´X´"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255646.png"
+      ],
+      "meaning": "Voorbijrijden toegestaan met inachtneming van de bijbehorende lichtseinen en snelheid zodanig begrenzen dat bij het eerstvolgende sein ‘Nr. 281 Entreesnelheidsbord’ de door dat sein aangegeven snelheid niet wordt overschreden.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0051",
+      "label": "Nr. 280 Witte ´G´"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255647.png"
+      ],
+      "meaning": "Aan het begin van de tunnel of dalende helling rijden toegestaan met de door het getal aangegeven snelheid.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoor-wegonderneming zijn aangewezen.",
+      "id": "s0052",
+      "label": "Nr. 281 Entreesnelheidsbord"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255648.png"
+      ],
+      "meaning": "Aanduiding van de door het getal aangegeven adviessnelheid die de machinist moet trachten aan te houden.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoor-wegonderneming zijn aangewezen.",
+      "id": "s0053",
+      "label": "Nr. 282 Adviessnelheidsbord"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255649.png"
+      ],
+      "meaning": "Aanduiding van de door het getal aangegeven adviessnelheid die de machinist moet trachten aan te houden.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoor-wegonderneming zijn aangewezen.",
+      "id": "s0054",
+      "label": "Nr. 282a Adviessnelheidsbord"
+    },
+    {
+      "section": "6",
+      "sectionTitle": "Seinen voor tunnels en steile hellingen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255650.png"
+      ],
+      "meaning": "Snelheid begrenzen tot de door het getal aangegeven snelheid. Deze snelheid moet bereikt zijn bij het eerstvolgende sein ‘Nr. 281 Entreesnelheidsbord’.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van goederen en van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0055",
+      "label": "Nr. 286 Entreesnelheidsverminderingsbord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269519.png"
+      ],
+      "meaning": "Stoppen vóór het bord. Na contact met en toestemming van de functionaris die op het onderbord staat vermeld, mag verder worden gereden.\nAls het onderbord meerdere opdrachten vermeldt, dan moeten deze worden uitgevoerd voordat het bord voorbij gereden mag worden.",
+      "id": "s0056",
+      "label": "Nr. 300 Stopbord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269520.png"
+      ],
+      "meaning": "Stoppen vóór het bord. Na contact met en toestemming van de functionaris die op het onderbord staat vermeld, mag verder worden gereden.\nDe wissels achter het sein liggen in de stand zoals aangegeven door het wisselsein, seinnummer 253a/b.",
+      "id": "s0057",
+      "label": "Nr. 300a Stopbord met brandende witte lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269521.png"
+      ],
+      "meaning": "Stoppen vóór het bord. Na contact met en toestemming van de functionaris die op het onderbord staat vermeld, mag verder worden gereden.\nDe wissels achter het sein moeten lokaal worden bediend.",
+      "id": "s0058",
+      "label": "Nr. 300b Stopbord met gedoofde lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "270552.png"
+      ],
+      "meaning": "Stoppen vóór het bord en de opdracht die op het onderbord staat vermeld, uitvoeren. Als geen opdracht wordt vermeld, mag na het stoppen verder worden gereden.",
+      "id": "s0059",
+      "label": "Nr. 301 Stopbord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255652.png"
+      ],
+      "meaning": "Stoppen vóór het bord. Na contact met en toestemming van de functionaris die op het onderbord staat vermeld, mag verder worden gereden. Als de toestemming vooraf is verkregen, mag sein 301b zonder stoppen voorbij worden gereden.",
+      "id": "s0060",
+      "label": "Nr. 301b Facultatief stopbord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269523.png"
+      ],
+      "meaning": "Stoppen voor het bord en de opdracht die op het onderbord vermeld staat, uitvoeren.\nDe brandende witte lamp betekent dat de wissels achter het sein in de juiste stand van de aangevraagde rijweg liggen en veilig berijdbaar zijn.",
+      "id": "s0061",
+      "label": "Nr. 301c Stopbord met brandende witte lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269524.png"
+      ],
+      "meaning": "Stoppen voor het bord en de opdracht, die op het onderbord vermeld staat, uitvoeren.\nDe gedoofde witte lamp betekent dat de wissels achter het sein lokaal moeten worden bediend.",
+      "id": "s0062",
+      "label": "Nr. 301d Stopbord met gedoofde lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262775.png"
+      ],
+      "meaning": "Stoppen voor het bord, tenzij de opdracht, vermeld op het onderbord, is uitgevoerd.\nDe wissels achter het sein liggen in de stand zoals aangegeven door het wisselsein, seinnummer 253a/b.",
+      "id": "s0063",
+      "label": "Nr. 301e Facultatief stopbord met brandende witte lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262776.png"
+      ],
+      "meaning": "Stoppen voor het bord, tenzij de opdracht, vermeld op het onderbord, is uitgevoerd.\nDe wissels achter het sein worden lokaal bediend.",
+      "id": "s0064",
+      "label": "Nr. 301f Facultatief stopbord met gedoofde lamp"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255658.png"
+      ],
+      "meaning": "Stoppen vóór het sein.\nGeldt niet voor bestuurders van treinen waarmee wordt gerangeerd.",
+      "id": "s0065",
+      "label": "Nr. 242 Stopseinlantaarn/-bord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255659.png"
+      ],
+      "meaning": "Stoppen vóór het sein.\nGeldt alleen voor bestuurders van treinen waarmee wordt gerangeerd.",
+      "id": "s0066",
+      "label": "Nr. 302 ‘R’-bord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255660.png"
+      ],
+      "meaning": "Stoppen vóór het sein, tenzij de bestuurder in het bezit is van een geldige aanwijzing Verkeerd Spoor voor het betrokken spoor.",
+      "id": "s0067",
+      "label": "Nr. 322 ‘VS’-bord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262778.png"
+      ],
+      "meaning": "Stoppen vóór het sein. Indien het sein op een beweegbare brug is geplaatst, stoppen voor de brug.\nEventueel is het bord bij een stootjuk dubbel uitgevoerd en/of voorzien van een rode lamp.",
+      "id": "s0068",
+      "label": "Nr. 243 Afsluitlantaarn/-bord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255663.png"
+      ],
+      "meaning": "De inrichting(en) achter het sein is veilig berijdbaar.",
+      "id": "s0069",
+      "label": "Nr. 244a/b Afsluitlantaarn veilig"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269526.png"
+      ],
+      "meaning": "Stoppen vóór het sein",
+      "id": "s0070",
+      "label": "Nr. 512b Rood licht of rode vlag of rode lichtgevende balk"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269527.png"
+      ],
+      "meaning": "Stoppen vóór het sein, tenzij de treindienstleider vooraf toestemming heeft gegeven om het sein voorbij te rijden.",
+      "id": "s0071",
+      "label": "Nr. 331 Blokbord"
+    },
+    {
+      "section": "7",
+      "sectionTitle": "Seinen met stopopdrachten",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262779.png"
+      ],
+      "meaning": "De opdracht vermeld op het onderbord uitvoeren alvorens het bord voorbij te rijden.\nDit bord wordt onder meer toegepast op locaties waarover wegverkeer plaatsvindt en de machinist een overweg moet bedienen.",
+      "id": "s0072",
+      "label": "Nr. 375 Opdrachtbord"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255666.png"
+      ],
+      "meaning": "Uitschakelen tractiestroom.",
+      "id": "s0073",
+      "label": "Nr. 306a Uitschakelbord"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255667.png"
+      ],
+      "meaning": "Inschakelen tractiestroom toegestaan.\nIndien een onderbord is aangebracht geldt:\nvoor getrokken treinen:\ninschakelen tractiestroom mag slechts geschieden indien het aantal elektrische locomotieven ten hoogste het op het onderbord vermelde aantal bedraagt.\nen voor overige treinen:\ninschakelen tractiestroom mag slechts geschieden indien de trein de op het onderbord aangegeven treinlengte niet overschrijdt.",
+      "id": "s0074",
+      "label": "Nr. 307a Inschakelbord"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255668.png"
+      ],
+      "meaning": "Aankondiging stroomafnemers neerlaten.",
+      "id": "s0075",
+      "label": "Nr. 308a Bord ‘Aankondiging stroomafnemers neer’"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255669.png"
+      ],
+      "meaning": "Stroomafnemers moeten zijn neergelaten.",
+      "id": "s0076",
+      "label": "Nr. 309a Bord ‘Stroomafnemers neer’"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255670.png"
+      ],
+      "meaning": "De stroomafnemers moeten zijn neergelaten bij gebruik van de wasinrichting.",
+      "id": "s0077",
+      "label": "Nr. 309c Bord ‘Stroomafnemers neer’ bij rijtuigwasinrichting"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255671.png"
+      ],
+      "meaning": "Toestemming om de stroomafnemers op te zetten.\nIndien een onderbord is aangebracht geldt:\nvoor getrokken treinen:\ninschakelen tractiestroom mag slechts geschieden indien het aantal elektrische locomotieven ten hoogste het op het onderbord vermelde aantal bedraagt.\nen voor overige treinen:\ninschakelen tractiestroom mag slechts geschieden indien de trein de op het onderbord aangegeven treinlengte niet overschrijdt.",
+      "id": "s0078",
+      "label": "Nr. 310a Bord ‘Stroomafnemers op’"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255672.png"
+      ],
+      "meaning": "Voorbijrijden met opgezette stroomafnemers niet toegestaan. Indien een bovenbord is aangebracht is voorbijrijden met opgezette stroomafnemers niet toegestaan in de richting waarnaar de pijl wijst.",
+      "id": "s0079",
+      "label": "Nr. 311(l/r) Bord ‘Einde bovenleiding’"
+    },
+    {
+      "section": "8",
+      "sectionTitle": "Seinen voor spoorvoertuigen met stroomafnemers",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255673.png"
+      ],
+      "meaning": "Aanduiding van de bovenleidingspanning voorbij het volgende bord ‘Nr. 310a Stroomafnemers op’. Op het onderste bord is deze bovenleidingspanning vermeld.",
+      "id": "s0080",
+      "label": "Nr. 320 Aanduiding locatie omschakelen hoogspanning"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255674.png"
+      ],
+      "meaning": "Tijdens het gebruik van de hoofdspoorweg gezien de rijrichting is de trein voorzien van:\n• drie brandende witte of gele lichten aan de voorzijde;\n• bij gebruik van het hogesnelheidsspoorwegsysteem drie brandende witte lichten aan de voorzijde.\nIndien treinstellen tijdens het gebruik van de hoofdspoorweg zijn gekoppeld, wordt de verlichting op de plaats van de koppeling gedoofd.",
+      "id": "s0081",
+      "label": "Nr. 401 Frontseinen"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255675.png"
+      ],
+      "meaning": "Historische voertuigen die van oudsher de A-configuratie van de opstelling van de frontseinen niet kunnen tonen, mogen ook een L-configuratie tonen\nUitsluitend voor historische voertuigen die daarvoor niet ingericht zijn, bij geduwd rangeren, twee naar voren gerichte witte lampen op gelijke hoogte op het voorste voertuig van een geduwde trein",
+      "id": "s0082",
+      "label": "Nr. 401b geduwde trein"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255676.png"
+      ],
+      "meaning": "Een krachtvoertuig is tijdens het gebruik van een hoofdspoorweg uitsluitend binnen een spoorwegemplacement aan de voor- en aan de achterzijde voorzien van een brandend wit licht.\nHet aan de voor- en aan de achterzijde voorzien van tenminste een brandend wit licht is niet van toepassing gedurende de periode dat een locomotief of een trein op een hoofdspoorweg binnen een spoorwegemplacement is geparkeerd.",
+      "id": "s0083",
+      "label": "Nr. 401c Trein en locomotief op spoorwegemplacement"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255677.png"
+      ],
+      "meaning": "Stoppen in verband met gevaar.",
+      "id": "s0084",
+      "label": "Nr. 413 Twee rode lichten met één, twee of drie witte lichten"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255678.png"
+      ],
+      "meaning": "Stoppen in verband met gevaar.",
+      "id": "s0085",
+      "label": "Nr. 401d Twee afwisselend of gelijktijdig knipperende, witte lichten aan frontzijde"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255679.png"
+      ],
+      "meaning": "Bij treinen\nTwee brandende, al dan niet knipperende, rode lichten aan de achterzijde of twee schilden (403-1, 403-2 of 403-5).\nIn het internationale verkeer moeten de schilden voldoen aan het model uit de TSI-OPE.",
+      "id": "s0086",
+      "label": "Nr. 403 Sluitseinen"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255680.png"
+      ],
+      "meaning": "Bij treinen van het hogesnelheid spoorwegsysteem tijdens het gebruik van de hoofdspoorweg\nTwee brandende rode lichten aan de achterzijde (403-1).",
+      "id": "s0087",
+      "label": ""
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255681.png"
+      ],
+      "meaning": "Bij treinen op een buiten dienst gesteld spoor\nEen brandend, al dan niet knipperende, rood licht aan de achterzijde (403-3 of 403-4).",
+      "id": "s0088",
+      "label": ""
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255682.png"
+      ],
+      "meaning": "Bij treinen niet bestemd voor het vervoer van personen\nAan de achterzijde zijn voorzien van een brandend, al dan niet knipperend, rood licht of twee schilden (403-3, 403-4 of 403-5).",
+      "id": "s0089",
+      "label": ""
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255683.png"
+      ],
+      "meaning": "In het internationale verkeer moeten de schilden voldoen aan het model uit de TSI-OPE (paragraaf 4.2.2.1.3.2).\nTwee reflecterende platen met aan de zijkanten witte driehoeken en boven- en onderaan rode driehoeken",
+      "id": "s0090",
+      "label": "Nr. 403-6 Internationaal sluitschild"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255684.png"
+      ],
+      "meaning": "Niet tegen het spoorvoertuig rangeren of afstoten.",
+      "id": "s0091",
+      "label": "Nr. 410 Gele vlag(gen)"
+    },
+    {
+      "section": "9",
+      "sectionTitle": "Seinen op kracht- en overige spoorvoertuigen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255685.png"
+      ],
+      "meaning": "Aanduiding aan het wegverkeer van een trein.",
+      "id": "s0092",
+      "label": "Nr. 412a Rood zwaai- / knipper- / flitslicht"
+    },
+    {
+      "section": "10",
+      "sectionTitle": "Remproefseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255686.png"
+      ],
+      "meaning": "Remmen vast.",
+      "id": "s0093",
+      "label": "Nr. 702a Remmen vast"
+    },
+    {
+      "section": "10",
+      "sectionTitle": "Remproefseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255687.png"
+      ],
+      "meaning": "Remmen lossen.",
+      "id": "s0094",
+      "label": "Nr. 702b Remmen los"
+    },
+    {
+      "section": "10",
+      "sectionTitle": "Remproefseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255688.png"
+      ],
+      "meaning": "Remproef geslaagd.",
+      "id": "s0095",
+      "label": "Nr. 702c Remmen in orde"
+    },
+    {
+      "section": "11",
+      "sectionTitle": "Vertrekseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255689.png"
+      ],
+      "meaning": "Toestemming voor het starten van de vertrekprocedure.",
+      "id": "s0096",
+      "label": "Nr. 706 Vertrekseinlicht"
+    },
+    {
+      "section": "11",
+      "sectionTitle": "Vertrekseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "268615.png"
+      ],
+      "meaning": "Er is toestemming voor het starten van de vertrekprocedure.",
+      "id": "s0097",
+      "label": "Nr. 700 Knipperend vertrek-seinlicht Wit knipperend licht met daaronder een V"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255690.png"
+      ],
+      "meaning": "Aanduiding van de nadering van een perron voor reizigers op remwegafstand.",
+      "id": "s0098",
+      "label": "Nr. 305 Verkenbord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255691.png"
+      ],
+      "meaning": "Geef een geluidssignaal overeenkomstig sein ‘Nr. 605 Een matige lange toon’.",
+      "id": "s0099",
+      "label": "Nr. 312 Fluitbord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255692.png"
+      ],
+      "meaning": "Geef een geluidssignaal overeenkomstig sein ‘Nr. 605 Een matige lange toon’, indien personen het overpad naderen.",
+      "id": "s0100",
+      "label": "Nr. 312a Facultatief fluitbord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255693.png"
+      ],
+      "meaning": "Aanduiding van de stand van het wissel:\na. linksleidend, en\nb. rechtsleidend.",
+      "id": "s0101",
+      "label": "Nr. 253a/b Wisselsein"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255694.png"
+      ],
+      "meaning": "Berijden van de weegbrug toegestaan met de voor die brug geldende snelheid overeenkomstig sein ‘Nr. 324 Snelheidsbord Overweg/Weegbrug’.",
+      "id": "s0102",
+      "label": "Nr. 274 Weegbrugsein rond"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255695.png"
+      ],
+      "meaning": "Berijden van de weegbrug toegestaan met de plaatselijke snelheid.",
+      "id": "s0103",
+      "label": "Nr. 275 Weegbrugsein driehoekig"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255696.png"
+      ],
+      "meaning": "Aanduiding van een of meer volgende lichtseinen overeenkomstig ‘Nr. 351 Afgekruist lichtsein’ die zo mogelijk zijn gedoofd.",
+      "id": "s0104",
+      "label": "Nr. 350 Attentiebord ‘Lichtsein(en) buiten dienst’"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255697.png"
+      ],
+      "meaning": "Aanduiding dat het lichtsein geen betekenis heeft.",
+      "id": "s0105",
+      "label": "Nr. 351 Afgekruist lichtsein"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255698.png"
+      ],
+      "meaning": "Voorbijrijden toegestaan met een zodanige snelheid, die niet hoger is dan 40 kilometer per uur, om op elke plaats achter dit sein te kunnen stoppen in verband met een mogelijke belemmering dan wel het ontbreken van de zekerheid dat de inrichtingen, gelegen tussen dit sein en het eerstvolgende lichtsein, goed functioneren.",
+      "id": "s0106",
+      "label": "Nr. 317 Bord ‘Rijden op zicht’"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255699.png"
+      ],
+      "meaning": "Aanduiding van het einde van een beveiligd gebied.",
+      "id": "s0107",
+      "label": "Nr. 333 Bord ‘Einde beveiligd gebied’"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255700.png"
+      ],
+      "meaning": "Aanduiding van het beginpunt van de aankondiging van een overweg.\nDe cijfers op het bord geven de kilometer- en hectometeraanduiding van de spoorwegovergang aan.",
+      "id": "s0108",
+      "label": "Nr. 318a Bord ‘Aankondiging overweg’"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255701.png"
+      ],
+      "meaning": "Aanduiding van het beginpunt van de aankondiging van twee achter elkaar gelegen overwegen.\nDe cijfers op de borden geven de kilometer- en hectometeraanduiding van de spoorwegovergangen aan, waarbij het bovenste cijfer betrekking heeft op de verst verwijderde spoorwegovergang.",
+      "id": "s0109",
+      "label": "Nr. 318b Bord ‘Aankondiging overweg’"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255703.png"
+      ],
+      "meaning": "GSM-R handmatig omschakelen naar het aangegeven nationale netwerk.",
+      "id": "s0110",
+      "label": "Nr. 338 GSM-R omschakelbord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255704.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar de voorzijde van een trein tot stilstand moet komen voor een goede dienstuitvoering.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van personen.",
+      "id": "s0111",
+      "label": "Nr. 303 Blauw licht (stopplaatssein)"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255705.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar de voorzijde van een trein tot stilstand moet komen voor een goede dienstuitvoering.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van personen.",
+      "id": "s0112",
+      "label": "Nr. 304a Treinlengtebord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255706.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar de voorzijde van een trein, bestaande uit ten hoogste het aantal door het getal aangegeven spoorvoertuigen, tot stilstand moet komen voor een goede dienstuit-voering.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van personen.",
+      "id": "s0113",
+      "label": "Nr. 304b Treinlengtebord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262780.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar de voorzijde van een trein bij perrons met perronfases tot stilstand moet komen voor een goede dienstuitvoering.\nHet bovenste getal geldt voor treinen die op beide perronfases kunnen halteren.\nHet onderste getal geldt voor treinen die in hun geheel langs de tweede of volgende perronfase tot stilstand moeten komen omdat deze de wissels langs het perron in de afbuigende stand berijden of omdat de bestuurder hiervoor expliciet instructie heeft gekregen.\nGeldt alleen voor bestuurders van treinen bestemd voor het vervoer van personen.",
+      "id": "s0114",
+      "label": "Nr. 304c Treinlengtebord"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255708.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar de voorzijde van een trein tot stilstand moet komen voor een goede dienstuitvoering.\nGeldt alleen voor bestuurders van treinen voor het vervoer van personen.",
+      "id": "s0115",
+      "label": "Nr. 512a Blauwe vlag/blauw licht"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255709.png"
+      ],
+      "meaning": "Snelheid zodanig begrenzen om vóór de aangegeven overweg(en) te kunnen stoppen.",
+      "id": "s0116",
+      "label": "Nr. 226a Snelheidsverminderingsbord voor overweg"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255710.png"
+      ],
+      "meaning": "Berijden van de overweg(en) toegestaan.",
+      "id": "s0117",
+      "label": "Nr. 226b Wit licht met geel vlak (overwegsein)"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255711.png"
+      ],
+      "meaning": "Stoppen vóór de overweg(en).",
+      "id": "s0118",
+      "label": "Nr. 226c Gedoofd wit licht met geel vlak (overwegsein)"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255712.png"
+      ],
+      "meaning": "Rangeren toegestaan.",
+      "id": "s0119",
+      "label": "Nr. 360a Signaleringslichten voor spoorbezetting. Twee vaste lichten"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255713.png"
+      ],
+      "meaning": "Aanduiding van de afstand tussen het voorste spoorvoertuig en het einde van het spoor die minder dan 200 meter en meer dan 50 meter bedraagt.",
+      "id": "s0120",
+      "label": "Nr. 360b Signaleringslichten voor spoorbezetting. Boven: knipperend wit licht, onder: wit licht"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255714.png"
+      ],
+      "meaning": "Aanduiding van de afstand tussen het voorste spoorvoertuig en het einde van het spoor die minder dan 50 meter bedraagt.",
+      "id": "s0121",
+      "label": "Nr. 360c Signaleringslichten voor spoorbezetting. Twee knipperende witte lichten"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255715.png"
+      ],
+      "meaning": "Wanneer ijskristal wit oplicht:\nAnti-icinginstallatie is in dienst.\nIndien bord gedoofd is dan is de anti-icinginstallatie niet in dienst.",
+      "id": "s0122",
+      "label": "Nr. 370 Matrixbord met signalering ‘anti-icing in dienst ‘ voor een anti-icinginstallatie"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255716.png"
+      ],
+      "meaning": "Wanneer snelheidsindicatie wit oplicht:\nDe anti-icinginstallatie behandelt de trein.\nDe adviessnelheid voor het rijden door de anti-icinginstallatie is 5 kilometer per uur.\nIndien bord gedoofd is dan conform de instructie het proces vervolgen.",
+      "id": "s0123",
+      "label": "Nr. 371 Matrixbord met snelheidsinstructie voor een anti-icinginstallatie"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255717.png"
+      ],
+      "meaning": "Matrix geeft de actuele snelheid aan in kilometer per uur.\nToelichting;\nBord is een hulpmiddel voor de machinist om de trein met 5 kilometer per uur door een anti-icinginstallatie te rijden.\nIndien bord gedoofd is dan conform de instructie het proces vervolgen.",
+      "id": "s0124",
+      "label": "Nr. 372 Matrixbord met aanduiding actuele snelheid van een trein voor een anti-icinginstallatie"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255718.png"
+      ],
+      "meaning": "Aanduiding van de plaats waar een met anti-icing behandelde trein de anti-icinginstallatie heeft verlaten.\nHet onderbord geeft de lengte van de trein aan in rijtuigen. De trein heeft de anti icing installatie verlaten indien deze uit het aantal op het onderbord vermelde spoorvoertuigen bestaat.",
+      "id": "s0125",
+      "label": "Nr. 373 Treinlengtebord voor anti-icing"
+    },
+    {
+      "section": "12",
+      "sectionTitle": "Overige vaste seinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255719.png"
+      ],
+      "meaning": "Wanneer matrixbord oplicht moet de machinist de opdracht uitvoeren. Daarbij houdt de machinist rekening met de voor het materieeltype geldende remvoorschriften.\nIndien bord gedoofd is dan conform de instructie het proces vervolgen.",
+      "id": "s0126",
+      "label": "Nr. 374 Matrixbord met opdracht voor de machinist voor een anti-icinginstallatie"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255720.png"
+      ],
+      "meaning": "ETCS-cabine-seingeving actief. Treinen zonder ETCS cabinesignalering zo spoedig mogelijk stoppen en opdracht van de treindienstleiding opvolgen.",
+      "id": "s0127",
+      "label": "Nr. 336 ETCS cabineseingeving"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255721.png"
+      ],
+      "meaning": "Einde ETCS-cabine-seingeving of ETCS-rijtoestemming.",
+      "id": "s0128",
+      "label": "Nr. 337 Einde ETCS cabineseingeving"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269528.png"
+      ],
+      "meaning": "Stopplaatsmarkering voor treinen die onder ETCS-cabineseingeving of een ETCS-rijtoestemming rijden of in SR mode rijden.\nDe punt wijst naar het spoor waarvoor het sein geldt.",
+      "id": "s0129",
+      "label": "Nr. 227b l/r/o Stopplaats-markering"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269529.png"
+      ],
+      "meaning": "ETCS level 1 achter het sein. Voorbijrijden toegestaan; daarna ETCS-cabineseingeving opvolgen.\nDe punt wijst naar het spoor waarvoor het sein geldt",
+      "id": "s0130",
+      "label": "Nr. 227a l/r wit licht: ETCS niveau 1 actief, stopplaatsmarkering Hoog of laag geplaatst wit licht"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269530.png"
+      ],
+      "meaning": "Stopplaatsmarkering voor treinen die onder ETCS-cabineseingeving of een ETCS-rijtoestemming of in SR mode rijden.\nDe punt wijst naar het spoor waarvoor het sein geldt.",
+      "id": "s0131",
+      "label": "Nr. 227c l/r gedoofd licht: Stopplaats-markering"
+    },
+    {
+      "section": "13",
+      "sectionTitle": "Seinen voor ETCS",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "257435.png"
+      ],
+      "meaning": "Stopplaatsmarkering voor treinen die onder ETCS-cabineseingeving of een ETCS-rijtoestemming rijden. Treinen zonder cabineseingeving: stop.",
+      "id": "s0132",
+      "label": "Nr. 228 Stopplaatsmarkering"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255725.png"
+      ],
+      "meaning": "Rijden van de seingever af.",
+      "id": "s0133",
+      "label": "Nr. 518a Van de seingever af"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255726.png"
+      ],
+      "meaning": "Rijden naar de seingever toe.",
+      "id": "s0134",
+      "label": "Nr. 519a Naar de seingever toe"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255727.png"
+      ],
+      "meaning": "Afstoten.",
+      "id": "s0135",
+      "label": "Nr. 520a Afstoten"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255728.png"
+      ],
+      "meaning": "Snelheid verminderen en rekenen op sein ‘Nr. 522a Stoppen’.",
+      "id": "s0136",
+      "label": "Nr. 521 Snelheid verminderen"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255729.png"
+      ],
+      "meaning": "Stoppen.",
+      "id": "s0137",
+      "label": "Nr. 522a Stoppen"
+    },
+    {
+      "section": "14",
+      "sectionTitle": "Handseinen voor materieelverplaatsing",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269531.png"
+      ],
+      "meaning": "Bijdrukken/combineren",
+      "id": "s0138",
+      "label": "Nr. 528a Bijdrukken/combineren"
+    },
+    {
+      "section": "15",
+      "sectionTitle": "Gevaarseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255731.png"
+      ],
+      "meaning": "Opletten.",
+      "id": "s0139",
+      "label": "Nr. 605 Attentiesein, een matige lange toon"
+    },
+    {
+      "section": "15",
+      "sectionTitle": "Gevaarseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255732.png"
+      ],
+      "meaning": "Er dreigt gevaar.",
+      "id": "s0140",
+      "label": "Nr. 606 Gevaarsein, tenminste vijf korte tonen"
+    },
+    {
+      "section": "15",
+      "sectionTitle": "Gevaarseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255733.png"
+      ],
+      "meaning": "Stoppen in verband met gevaar.",
+      "id": "s0141",
+      "label": "Nr. 508 Gevaarsein met rode vlag/rood licht"
+    },
+    {
+      "section": "15",
+      "sectionTitle": "Gevaarseinen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255734.png"
+      ],
+      "meaning": "Stoppen in verband met gevaar.",
+      "id": "s0142",
+      "label": "Nr. 509 Gevaarsein met hand/wit licht"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.1",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie bij uitzichtbelemmerende objecten (wubo)",
+      "images": [
+        "255735.png"
+      ],
+      "meaning": "Er nadert geen trein, vanuit de richting van het uitzichtbelemmerende object, over het spoor waarop het sein betrekking heeft.",
+      "id": "s0143",
+      "label": "Nr. 708 WUBO Twee witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.1",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie bij uitzichtbelemmerende objecten (wubo)",
+      "images": [
+        "255736.png"
+      ],
+      "meaning": "Er nadert een trein, vanuit de richting van het uitzichtbelemmerende object, over het spoor waarop het sein betrekking heeft.",
+      "id": "s0144",
+      "label": "Nr. 709 WUBO Twee wisselende witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.2",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie op bruggen (wibr)",
+      "images": [
+        "255737.png"
+      ],
+      "meaning": "Er nadert geen trein over het spoor van de brug waarop het sein betrekking heeft.",
+      "id": "s0145",
+      "label": "Nr. 710 WIBR Twee verticale, witte lichten per spoor"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.2",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie op bruggen (wibr)",
+      "images": [
+        "255738.png"
+      ],
+      "meaning": "Er nadert een trein over het spoor van de brug waarop het sein betrekking heeft.",
+      "id": "s0146",
+      "label": "Nr. 711 WIBR Twee verticale, wisselende witte lichten per spoor"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.3",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie voor dienstoverpaden (wido)",
+      "images": [
+        "255739.png"
+      ],
+      "meaning": "Er nadert geen trein over het spoor waarop het sein betrekking heeft.",
+      "id": "s0147",
+      "label": "Nr. 720 WIDO Twee witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.3",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie voor dienstoverpaden (wido)",
+      "images": [
+        "255740.png"
+      ],
+      "meaning": "Er nadert een trein over het spoor waarop het sein betrekking heeft.",
+      "id": "s0148",
+      "label": "Nr. 721 WIDO Twee knipperende witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.4",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie in tunnels (wit)",
+      "images": [
+        "255741.png"
+      ],
+      "meaning": "Er nadert geen trein over het spoor waarop het sein betrekking heeft.",
+      "id": "s0149",
+      "label": "Nr. 722 WIT Twee verticaal, witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.4",
+      "subsectionTitle": "Vaste waarschuwingsinstallatie in tunnels (wit)",
+      "images": [
+        "255742.png"
+      ],
+      "meaning": "Er nadert een trein over het spoor waarop het sein betrekking heeft.",
+      "id": "s0150",
+      "label": "Nr. 723 WIT Twee verticaal, wisselde witte lichten"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255743.png"
+      ],
+      "meaning": "Opletten in verband met de nadering van een trein over het spoor waarnaast men zich bevindt.",
+      "id": "s0151",
+      "label": "Nr. 614 Geluidssein een matig lange toon"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255744.png"
+      ],
+      "meaning": "Er dreigt gevaar!",
+      "id": "s0152",
+      "label": "Nr. 616 Geluidssein tenminste vijf korte tonen"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255745.png"
+      ],
+      "meaning": "Opletten in verband met de nadering van een trein over het spoor waarin men zich bevindt.",
+      "id": "s0153",
+      "label": "Nr. 617 Geluidssein lange, korte en lange toon"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255746.png"
+      ],
+      "meaning": "De werkzaamheden kunnen beginnen of hervat worden.",
+      "id": "s0154",
+      "label": "Nr. 618 Geluidssein een korte toon"
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255747.png"
+      ],
+      "meaning": "Er nadert een trein.",
+      "id": "s0155",
+      "label": "Nr. 724a Oranje zwaai- of flitslicht en sirene."
+    },
+    {
+      "section": "16",
+      "sectionTitle": "Seinen voor de persoonlijke veiligheid",
+      "subsection": "16.5",
+      "subsectionTitle": "Geluids- en lichtseinen bij werkzaamheden",
+      "images": [
+        "255748.png"
+      ],
+      "meaning": "Er nadert geen trein.",
+      "id": "s0156",
+      "label": "Nr. 724b Niet werkend oranje zwaai of flitslicht en sirene."
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269532.png"
+      ],
+      "meaning": "Hectometer-aanduiding",
+      "id": "s0157",
+      "label": "Hectometer-bord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "269533.png"
+      ],
+      "meaning": "Hectometer-aanduiding van een overgang",
+      "id": "s0158",
+      "label": "Hectometer-bord overgang"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255750.png"
+      ],
+      "meaning": "Aanduiding van het nummer van het sein",
+      "id": "s0159",
+      "label": "Seinnummerbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255751.png"
+      ],
+      "meaning": "Aanduiding van het nummer van een voorsein.",
+      "id": "s0160",
+      "label": "Seinnummerbord met V"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255753.png"
+      ],
+      "meaning": "Aanduiding van het nummer van een herhalingssein Nr. 272 of 273 dat is gekoppeld aan een lichtsein met hetzelfde nummer.",
+      "id": "s0161",
+      "label": "Seinnummerbord met R"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255755.png"
+      ],
+      "meaning": "Aanduiding van het nummer van een codewisselsein Nr. 330 dat is gekoppeld aan een lichtsein met hetzelfde nummer.",
+      "id": "s0162",
+      "label": "Seinnummerbord met C"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255756.png"
+      ],
+      "meaning": "Aanduiding van een lichtsein zonder origineel nummer.",
+      "id": "s0163",
+      "label": "Toegevoegd seinnummerbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "262781.png"
+      ],
+      "meaning": "Aanduiding van het spoor waarvoor het sein bestemd is.\nAanduiding van de sporen waarvoor het sein bestemd is.",
+      "id": "s0164",
+      "label": "Pijlbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255758.png"
+      ],
+      "meaning": "Aanduiding van het nummer van een wissel.",
+      "id": "s0165",
+      "label": "Wisselnummerbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255759.png"
+      ],
+      "meaning": "Aanduiding van een kast waarin zich een wisselkruk bevindt.",
+      "id": "s0166",
+      "label": "Krukkastbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255760.png"
+      ],
+      "meaning": "Aanduiding van een kast waarin zich een telefoon bevindt waarmee rechtstreeks contact kan worden opgenomen met de treindienstleider.",
+      "id": "s0167",
+      "label": "Telefoonkastbord"
+    },
+    {
+      "section": "17",
+      "sectionTitle": "Aanduidingsborden",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255761.png"
+      ],
+      "meaning": "Aanduiding van het einde van een looppad.",
+      "id": "s0168",
+      "label": "Bord ‘Einde looppad’"
+    },
+    {
+      "section": "18",
+      "sectionTitle": "Markeringen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255762.png"
+      ],
+      "meaning": "Aanduiding van de normaalstand van een ter plaatse te bedienen wissel, indien het witte vlak boven is. Na het berijden wordt het wissel in de in normaalstand teruggelegd.",
+      "id": "s0169",
+      "label": "Wit/zwart vlak op contragewicht, omzetstoel of wisselstandaanwijzer"
+    },
+    {
+      "section": "18",
+      "sectionTitle": "Markeringen",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255763.png"
+      ],
+      "meaning": "Aanduiding van de uiterste grens op een spoor waar spoorvoertuigen geplaatst kunnen worden zonder in aanraking te komen met spoorvoertuigen op het nevenspoor.",
+      "id": "s0170",
+      "label": "Vrijbalk"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.1",
+      "subsectionTitle": "Amsterdam",
+      "images": [
+        "255764.png"
+      ],
+      "meaning": "Stoppen vóór het sein.",
+      "id": "s0171",
+      "label": "Nr. 215b Rood met gele driehoek"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.1",
+      "subsectionTitle": "Amsterdam",
+      "images": [
+        "255765.png"
+      ],
+      "meaning": "Bij nadering van het lichtsein: het lichtsein heeft geen betekenis.\nBij vertrek vanuit de stilstand: rijden toegestaan met een zodanige snelheid, die niet hoger is dan 40 kilometer per uur, om op elke plaats achter dit sein, waar een belemmering voor het verder rijden aanwezig is, te kunnen stoppen.",
+      "id": "s0172",
+      "label": "Nr. 223 Laag geplaatst wit licht met vierkant zwart bord met gele driehoek met de punt omlaag"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.2",
+      "subsectionTitle": "Venlo",
+      "images": [
+        "255766.png"
+      ],
+      "meaning": "Stoppen voor het bord.\nGeldt alleen voor bestuurders van losse, elektrische locomotieven die niet geschikt zijn voor 15.000 V wisselspanning.\nGeldt alleen voor bestuurders van losse, elektrische locomotieven die niet geschikt zijn voor 1.500 V gelijkspanning.",
+      "id": "s0173",
+      "label": "Nr. 301a Stopbord E-Tractie"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.2",
+      "subsectionTitle": "Venlo",
+      "images": [
+        "269534.png"
+      ],
+      "meaning": "Rijden toegestaan met een snelheid van ten hoogste 40 kilometer per uur, als de bestuurder in het bezit is van een geldige aanwijzing Verkeerd Spoor voor het betrokken spoor.",
+      "id": "s0174",
+      "label": "Nr. 224 Wit licht bij gedoofd lichtsein met bord VS"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.3",
+      "subsectionTitle": "Kijfhoek",
+      "images": [
+        "255768.png"
+      ],
+      "meaning": "Rijden over de rangeerheuvel naar de verdeelsporen toegestaan.",
+      "id": "s0175",
+      "label": "Nr. 270a Heuvelaanrijsein keper omhoog"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.3",
+      "subsectionTitle": "Kijfhoek",
+      "images": [
+        "255769.png"
+      ],
+      "meaning": "Opduwen van te heuvelen spoorvoertuigen toegestaan. Niet toegestaan met de locomotief het sein voorbij te rijden.",
+      "id": "s0176",
+      "label": "Nr. 270b Heuvelaanrijsein keper omlaag"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.3",
+      "subsectionTitle": "Kijfhoek",
+      "images": [
+        "255770.png"
+      ],
+      "meaning": "Voorbijrijden van het sein alleen toegestaan na toestemming van de treindienstleider.",
+      "id": "s0177",
+      "label": "Nr. 270c Heuvelaanrijsein rode balk"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.4",
+      "subsectionTitle": "Nederlands – Belgisch baanvakken",
+      "images": [
+        "255771.png"
+      ],
+      "meaning": "Aanduiding van de plaatsing van de seinen aan de rechterzijde van het spoor waarvoor zij bestemd zijn.",
+      "id": "s0178",
+      "label": "Nr. 349 Bord ‘Seinen rechts naast spoor’"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.4",
+      "subsectionTitle": "Nederlands – Belgisch baanvakken",
+      "images": [
+        "255772.png"
+      ],
+      "meaning": "Aanduiding van het spoor waarvoor het sein bestemd is.",
+      "id": "s0179",
+      "label": "Nr. 349a Belgisch pijlbord"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.5",
+      "subsectionTitle": "Diverse baanvakken",
+      "images": [
+        "255773.png"
+      ],
+      "meaning": "Uitschakelen tractiestroom.\nGeldt alleen voor bestuurders van treinen, voorzien van stroomafnemers, die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0180",
+      "label": "Nr. 306b Uitschakelbord"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.5",
+      "subsectionTitle": "Diverse baanvakken",
+      "images": [
+        "255774.png"
+      ],
+      "meaning": "Inschakelen tractiestroom toegestaan. Indien een onderbord is aangebracht, mag het inschakelen van de tractiestroom slechts geschieden indien de trein uit niet meer dan het aantal op het onderbord vermelde spoorvoertuigen bestaat.\nGeldt alleen voor bestuurders van treinen, voorzien van stroomafnemers, die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0181",
+      "label": "Nr. 307b Inschakelbord"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.5",
+      "subsectionTitle": "Diverse baanvakken",
+      "images": [
+        "255775.png"
+      ],
+      "meaning": "Binnen driehonderd meter de stroomafnemers neerlaten.\nGeldt alleen voor bestuurders van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0182",
+      "label": "Nr. 308b stroomafnemers neer"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.5",
+      "subsectionTitle": "Diverse baanvakken",
+      "images": [
+        "255776.png"
+      ],
+      "meaning": "De stroomafnemers moeten zijn neergelaten.\nGeldt alleen voor bestuurders van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0183",
+      "label": "Nr. 309b stroomafnemers neer"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.5",
+      "subsectionTitle": "Diverse baanvakken",
+      "images": [
+        "255777.png"
+      ],
+      "meaning": "Toestemming om de stroomafnemers op te zetten.\nGeldt alleen voor bestuurders van treinen die door de betrokken spoorwegonderneming zijn aangewezen.",
+      "id": "s0184",
+      "label": "Nr. 310b stroomafnemers op"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.6",
+      "subsectionTitle": "Baanvakken Tilburg – ‘s Hertogenbosch en Boxtel – Eindhoven",
+      "images": [
+        "255778.png"
+      ],
+      "meaning": "Sein geeft geen opdracht.",
+      "id": "s0185",
+      "label": "Nr. 725a Gedoofd licht"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.6",
+      "subsectionTitle": "Baanvakken Tilburg – ‘s Hertogenbosch en Boxtel – Eindhoven",
+      "images": [
+        "255779.png"
+      ],
+      "meaning": "Aanduiding van de activering van de werkzoneschakelaar voor het spoor waarop de werkzonelamp betrekking heeft.",
+      "id": "s0186",
+      "label": "Nr. 725b Knipperen rood licht"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.7",
+      "subsectionTitle": "Amersfoort",
+      "images": [
+        "255780.png"
+      ],
+      "meaning": "Niet toegestaan spoorvoertuigen naar of over de heuvel te duwen.",
+      "id": "s0187",
+      "label": "Nr 268a/b Heuvelen verboden a"
+    },
+    {
+      "section": "19",
+      "sectionTitle": "Lokaal voorkomende seinen",
+      "subsection": "19.7",
+      "subsectionTitle": "Amersfoort",
+      "images": [
+        "255782.png"
+      ],
+      "meaning": "Duwen van spoorvoertuigen naar of over de heuvel\nToegestaan.",
+      "id": "s0188",
+      "label": "Nr 269a/b Heuvelen toegestaan a"
+    },
+    {
+      "section": "20",
+      "sectionTitle": "Seinen op buitendienstgesteld spoor",
+      "subsection": null,
+      "subsectionTitle": null,
+      "images": [
+        "255784.png"
+      ],
+      "meaning": "Voor werktreinen:\nStop vóór het sein.\nVoor de persoonlijke veiligheid:\nDe werkzoneschakelaar voor de werkzone die ligt voor het betreffende sein is geactiveerd.",
+      "id": "s0189",
+      "label": "Nr. 725b Knipperen rood licht (hoog en laag)"
+    }
+  ]
+}
