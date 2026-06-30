@@ -33,8 +33,50 @@ function shuffle<T>(items: T[]): T[] {
   return arr;
 }
 
+// Some official signal meanings are near word-for-word paraphrases of each
+// other (e.g. "Toestemming voor het starten van de vertrekprocedure." vs
+// "Er is toestemming voor het starten van de vertrekprocedure."), or differ
+// by a single negation ("Er nadert een trein." vs "Er nadert geen trein.").
+// Putting two of those in the same question makes it unanswerable rather
+// than a fair "likely misdirect", so distractors are filtered out if they
+// read too close to an option already in play.
+const TOO_SIMILAR = 0.75;
+
+function normalize(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s]/gu, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function bigrams(text: string): Set<string> {
+  const normalized = normalize(text);
+  const result = new Set<string>();
+  for (let i = 0; i < normalized.length - 1; i++) {
+    result.add(normalized.slice(i, i + 2));
+  }
+  return result;
+}
+
+// Sørensen-Dice coefficient over character bigrams: robust to small wording
+// changes, cheap enough to run per-candidate against a ~190-entry pool.
+function similarity(a: string, b: string): number {
+  const setA = bigrams(a);
+  const setB = bigrams(b);
+  if (setA.size === 0 || setB.size === 0) return 0;
+  let shared = 0;
+  for (const gram of setA) {
+    if (setB.has(gram)) shared++;
+  }
+  return (2 * shared) / (setA.size + setB.size);
+}
+
+function tooSimilarToAny(meaning: string, others: string[]): boolean {
+  return others.some((other) => similarity(meaning, other) >= TOO_SIMILAR);
+}
+
 function pickDistractors(correct: Signal, count: number): string[] {
-  const seenMeanings = new Set([correct.meaning]);
   const distractors: string[] = [];
 
   const tiers = [
@@ -45,14 +87,21 @@ function pickDistractors(correct: Signal, count: number): string[] {
     ALL_SIGNALS.filter((s) => s.id !== correct.id),
   ];
 
-  for (const tier of tiers) {
-    if (distractors.length >= count) break;
-    for (const signal of shuffle(tier)) {
+  // First pass: respect the similarity guard. Second pass (only reached if
+  // the pool is too small/repetitive) fills any remaining slots without it,
+  // so a question is never short an option.
+  for (const strict of [true, false]) {
+    for (const tier of tiers) {
       if (distractors.length >= count) break;
-      if (seenMeanings.has(signal.meaning)) continue;
-      seenMeanings.add(signal.meaning);
-      distractors.push(signal.meaning);
+      for (const signal of shuffle(tier)) {
+        if (distractors.length >= count) break;
+        if (distractors.includes(signal.meaning)) continue;
+        const chosen = [correct.meaning, ...distractors];
+        if (strict && tooSimilarToAny(signal.meaning, chosen)) continue;
+        distractors.push(signal.meaning);
+      }
     }
+    if (distractors.length >= count) break;
   }
 
   return distractors;
