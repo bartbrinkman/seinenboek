@@ -7,6 +7,8 @@ export interface Signal {
   images: string[];
   meaning: string;
   label: string;
+  /** Curated pool of plausible-but-wrong meanings; 2 are sampled per question. */
+  distractors: string[];
 }
 
 export interface SignalData {
